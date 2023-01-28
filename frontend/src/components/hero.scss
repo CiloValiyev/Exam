@@ -1,0 +1,72 @@
+.wrapper1{
+    height: 70vh;
+    .swiper1{
+        height: 70vh !important;
+        background-image: url(../foto/homev_updated1_02.jpg);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        .markub{
+            position: absolute;
+            bottom: 50px;
+            left: 200px;
+            height: 200px;
+            width: 700px;
+            h3{
+                width: 500px;
+                color: white;
+                background-color:rgb(31, 166, 122) ;
+            }
+            p{
+                width: 550px;
+                color: white;
+                background-color: rgb(100, 97, 97);
+            }
+        }
+    }
+    .swiper2{
+        height: 70vh !important;
+        background-image: url(../foto/slide02.jpg);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        .markub{
+            position: absolute;
+            bottom: 50px;
+            left: 200px;
+            height: 200px;
+            width: 700px;
+            h3{
+                width: 500px;
+                color: white;
+                background-color:rgb(31, 166, 122) ;
+            }
+            p{
+                width: 550px;
+                color: white;
+                background-color: rgb(100, 97, 97);
+            }
+        }
+    }
+    .swiper3{
+        height: 70vh !important;
+        background-image: url(../foto/slide03.jpg);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        .markub{
+            position: absolute;
+            bottom: 50px;
+            left: 200px;
+            height: 200px;
+            width: 700px;
+            h3{
+                width: 500px;
+                color: white;
+                background-color:rgb(31, 166, 122) ;
+            }
+            p{
+                width: 550px;
+                color: white;
+                background-color: rgb(100, 97, 97);
+            }
+        }
+    }
+}

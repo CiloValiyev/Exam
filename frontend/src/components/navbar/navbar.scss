@@ -1,0 +1,22 @@
+.navbar{
+    .dazziling{
+        padding-left: 400px;
+        font-weight: 500;
+        color: rgb(31, 166, 122);
+        font-size: 24px;
+    }
+    .navbar-nav{
+        margin-left: 300px !important;
+        
+        li{
+            padding-left: 20px;
+            list-style: none;
+            a{
+                height: 100%;
+                text-decoration: none;
+                color: black;
+            }
+          
+        }
+    }
+}

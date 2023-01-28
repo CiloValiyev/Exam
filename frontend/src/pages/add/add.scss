@@ -1,0 +1,35 @@
+.add-page{
+    height: 70vh;
+    width: 100%;
+    .add-style{
+       margin-left: 35%;
+       margin-top: 50px;
+       display: flex;
+       flex-direction: column !important;
+        margin-top: 50px;
+        border: 1px solid black;
+        padding-top: 50px;
+        height: 600px;
+        width: 500px;
+        text-align: center;
+      input{
+          width: 90%;   
+          height: 40px;
+          margin-bottom: 25px;
+          border: 1px solid gray;
+          padding: 10px;
+      }
+      button{
+          width: 50%;
+          height: 40px;
+          border: none;
+          border-radius: 7px;
+          background-color: rgb(27, 16, 90);
+          color: white;
+      }
+      button:hover{
+          background-color:rgb(55, 38, 156) ;
+      }
+
+    }
+}
